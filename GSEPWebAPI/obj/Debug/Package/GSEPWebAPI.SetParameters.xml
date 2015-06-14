@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <setParameter name="IIS Web Application Name" value="Default Web Site/" />
+  <setParameter name="GSEP-Web.config Connection String" value="Data Source=fugsep.cnhreoviisrd.ap-southeast-1.rds.amazonaws.com;Initial Catalog=GSEP;Integrated Security=False;User Id=gsep;Password=Gsep2015!;MultipleActiveResultSets=True" />
+</parameters>

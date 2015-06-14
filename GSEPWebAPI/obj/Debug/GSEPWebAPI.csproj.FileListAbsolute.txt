@@ -1,0 +1,373 @@
+E:\STUDY\Chuyen nganh\Capstone\GSEP\SOURCE CODE\GSEPWebAPI\GSEPWebAPI\bin\GSEPWebAPI.dll.config
+E:\STUDY\Chuyen nganh\Capstone\GSEP\SOURCE CODE\GSEPWebAPI\GSEPWebAPI\bin\GSEPWebAPI.dll
+E:\STUDY\Chuyen nganh\Capstone\GSEP\SOURCE CODE\GSEPWebAPI\GSEPWebAPI\bin\GSEPWebAPI.pdb
+E:\STUDY\Chuyen nganh\Capstone\GSEP\SOURCE CODE\GSEPWebAPI\GSEPWebAPI\bin\Antlr3.Runtime.dll
+E:\STUDY\Chuyen nganh\Capstone\GSEP\SOURCE CODE\GSEPWebAPI\GSEPWebAPI\bin\EntityFramework.dll
+E:\STUDY\Chuyen nganh\Capstone\GSEP\SOURCE CODE\GSEPWebAPI\GSEPWebAPI\bin\EntityFramework.SqlServer.dll
+E:\STUDY\Chuyen nganh\Capstone\GSEP\SOURCE CODE\GSEPWebAPI\GSEPWebAPI\bin\Microsoft.AspNet.Identity.Core.dll
+E:\STUDY\Chuyen nganh\Capstone\GSEP\SOURCE CODE\GSEPWebAPI\GSEPWebAPI\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\STUDY\Chuyen nganh\Capstone\GSEP\SOURCE CODE\GSEPWebAPI\GSEPWebAPI\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\STUDY\Chuyen nganh\Capstone\GSEP\SOURCE CODE\GSEPWebAPI\GSEPWebAPI\bin\Microsoft.Owin.dll
+E:\STUDY\Chuyen nganh\Capstone\GSEP\SOURCE CODE\GSEPWebAPI\GSEPWebAPI\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\STUDY\Chuyen nganh\Capstone\GSEP\SOURCE CODE\GSEPWebAPI\GSEPWebAPI\bin\Microsoft.Owin.Security.Cookies.dll
+E:\STUDY\Chuyen nganh\Capstone\GSEP\SOURCE CODE\GSEPWebAPI\GSEPWebAPI\bin\Microsoft.Owin.Security.dll
+E:\STUDY\Chuyen nganh\Capstone\GSEP\SOURCE CODE\GSEPWebAPI\GSEPWebAPI\bin\Microsoft.Owin.Security.Facebook.dll
+E:\STUDY\Chuyen nganh\Capstone\GSEP\SOURCE CODE\GSEPWebAPI\GSEPWebAPI\bin\Microsoft.Owin.Security.Google.dll
+E:\STUDY\Chuyen nganh\Capstone\GSEP\SOURCE CODE\GSEPWebAPI\GSEPWebAPI\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\STUDY\Chuyen nganh\Capstone\GSEP\SOURCE CODE\GSEPWebAPI\GSEPWebAPI\bin\Microsoft.Owin.Security.OAuth.dll
+E:\STUDY\Chuyen nganh\Capstone\GSEP\SOURCE CODE\GSEPWebAPI\GSEPWebAPI\bin\Microsoft.Owin.Security.Twitter.dll
+E:\STUDY\Chuyen nganh\Capstone\GSEP\SOURCE CODE\GSEPWebAPI\GSEPWebAPI\bin\Microsoft.Web.Infrastructure.dll
+E:\STUDY\Chuyen nganh\Capstone\GSEP\SOURCE CODE\GSEPWebAPI\GSEPWebAPI\bin\Neo4jClient.dll
+E:\STUDY\Chuyen nganh\Capstone\GSEP\SOURCE CODE\GSEPWebAPI\GSEPWebAPI\bin\Newtonsoft.Json.dll
+E:\STUDY\Chuyen nganh\Capstone\GSEP\SOURCE CODE\GSEPWebAPI\GSEPWebAPI\bin\Owin.dll
+E:\STUDY\Chuyen nganh\Capstone\GSEP\SOURCE CODE\GSEPWebAPI\GSEPWebAPI\bin\System.Net.Http.Extensions.dll
+E:\STUDY\Chuyen nganh\Capstone\GSEP\SOURCE CODE\GSEPWebAPI\GSEPWebAPI\bin\System.Net.Http.Formatting.dll
+E:\STUDY\Chuyen nganh\Capstone\GSEP\SOURCE CODE\GSEPWebAPI\GSEPWebAPI\bin\System.Net.Http.Primitives.dll
+E:\STUDY\Chuyen nganh\Capstone\GSEP\SOURCE CODE\GSEPWebAPI\GSEPWebAPI\bin\System.Web.Helpers.dll
+E:\STUDY\Chuyen nganh\Capstone\GSEP\SOURCE CODE\GSEPWebAPI\GSEPWebAPI\bin\System.Web.Http.dll
+E:\STUDY\Chuyen nganh\Capstone\GSEP\SOURCE CODE\GSEPWebAPI\GSEPWebAPI\bin\System.Web.Http.Owin.dll
+E:\STUDY\Chuyen nganh\Capstone\GSEP\SOURCE CODE\GSEPWebAPI\GSEPWebAPI\bin\System.Web.Http.WebHost.dll
+E:\STUDY\Chuyen nganh\Capstone\GSEP\SOURCE CODE\GSEPWebAPI\GSEPWebAPI\bin\System.Web.Mvc.dll
+E:\STUDY\Chuyen nganh\Capstone\GSEP\SOURCE CODE\GSEPWebAPI\GSEPWebAPI\bin\System.Web.Optimization.dll
+E:\STUDY\Chuyen nganh\Capstone\GSEP\SOURCE CODE\GSEPWebAPI\GSEPWebAPI\bin\System.Web.Razor.dll
+E:\STUDY\Chuyen nganh\Capstone\GSEP\SOURCE CODE\GSEPWebAPI\GSEPWebAPI\bin\System.Web.WebPages.Deployment.dll
+E:\STUDY\Chuyen nganh\Capstone\GSEP\SOURCE CODE\GSEPWebAPI\GSEPWebAPI\bin\System.Web.WebPages.dll
+E:\STUDY\Chuyen nganh\Capstone\GSEP\SOURCE CODE\GSEPWebAPI\GSEPWebAPI\bin\System.Web.WebPages.Razor.dll
+E:\STUDY\Chuyen nganh\Capstone\GSEP\SOURCE CODE\GSEPWebAPI\GSEPWebAPI\bin\WebGrease.dll
+E:\STUDY\Chuyen nganh\Capstone\GSEP\SOURCE CODE\GSEPWebAPI\GSEPWebAPI\bin\Neo4jClient.xml
+E:\STUDY\Chuyen nganh\Capstone\GSEP\SOURCE CODE\GSEPWebAPI\GSEPWebAPI\bin\Newtonsoft.Json.xml
+E:\STUDY\Chuyen nganh\Capstone\GSEP\SOURCE CODE\GSEPWebAPI\GSEPWebAPI\bin\System.Net.Http.Extensions.xml
+E:\STUDY\Chuyen nganh\Capstone\GSEP\SOURCE CODE\GSEPWebAPI\GSEPWebAPI\bin\System.Net.Http.Primitives.xml
+E:\STUDY\Chuyen nganh\Capstone\GSEP\SOURCE CODE\GSEPWebAPI\GSEPWebAPI\bin\System.Net.Http.Formatting.xml
+E:\STUDY\Chuyen nganh\Capstone\GSEP\SOURCE CODE\GSEPWebAPI\GSEPWebAPI\bin\System.Web.Helpers.xml
+E:\STUDY\Chuyen nganh\Capstone\GSEP\SOURCE CODE\GSEPWebAPI\GSEPWebAPI\bin\System.Web.Http.xml
+E:\STUDY\Chuyen nganh\Capstone\GSEP\SOURCE CODE\GSEPWebAPI\GSEPWebAPI\bin\System.Web.Http.WebHost.xml
+E:\STUDY\Chuyen nganh\Capstone\GSEP\SOURCE CODE\GSEPWebAPI\GSEPWebAPI\bin\System.Web.Mvc.xml
+E:\STUDY\Chuyen nganh\Capstone\GSEP\SOURCE CODE\GSEPWebAPI\GSEPWebAPI\bin\System.Web.Optimization.xml
+E:\STUDY\Chuyen nganh\Capstone\GSEP\SOURCE CODE\GSEPWebAPI\GSEPWebAPI\bin\System.Web.Razor.xml
+E:\STUDY\Chuyen nganh\Capstone\GSEP\SOURCE CODE\GSEPWebAPI\GSEPWebAPI\bin\System.Web.WebPages.xml
+E:\STUDY\Chuyen nganh\Capstone\GSEP\SOURCE CODE\GSEPWebAPI\GSEPWebAPI\bin\System.Web.WebPages.Deployment.xml
+E:\STUDY\Chuyen nganh\Capstone\GSEP\SOURCE CODE\GSEPWebAPI\GSEPWebAPI\bin\System.Web.WebPages.Razor.xml
+E:\STUDY\Chuyen nganh\Capstone\GSEP\SOURCE CODE\GSEPWebAPI\GSEPWebAPI\bin\EntityFramework.xml
+E:\STUDY\Chuyen nganh\Capstone\GSEP\SOURCE CODE\GSEPWebAPI\GSEPWebAPI\bin\EntityFramework.SqlServer.xml
+E:\STUDY\Chuyen nganh\Capstone\GSEP\SOURCE CODE\GSEPWebAPI\GSEPWebAPI\bin\Microsoft.AspNet.Identity.Core.xml
+E:\STUDY\Chuyen nganh\Capstone\GSEP\SOURCE CODE\GSEPWebAPI\GSEPWebAPI\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\STUDY\Chuyen nganh\Capstone\GSEP\SOURCE CODE\GSEPWebAPI\GSEPWebAPI\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\STUDY\Chuyen nganh\Capstone\GSEP\SOURCE CODE\GSEPWebAPI\GSEPWebAPI\bin\Microsoft.Owin.xml
+E:\STUDY\Chuyen nganh\Capstone\GSEP\SOURCE CODE\GSEPWebAPI\GSEPWebAPI\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\STUDY\Chuyen nganh\Capstone\GSEP\SOURCE CODE\GSEPWebAPI\GSEPWebAPI\bin\Microsoft.Owin.Security.xml
+E:\STUDY\Chuyen nganh\Capstone\GSEP\SOURCE CODE\GSEPWebAPI\GSEPWebAPI\bin\Microsoft.Owin.Security.Facebook.xml
+E:\STUDY\Chuyen nganh\Capstone\GSEP\SOURCE CODE\GSEPWebAPI\GSEPWebAPI\bin\Microsoft.Owin.Security.Cookies.xml
+E:\STUDY\Chuyen nganh\Capstone\GSEP\SOURCE CODE\GSEPWebAPI\GSEPWebAPI\bin\Microsoft.Owin.Security.OAuth.xml
+E:\STUDY\Chuyen nganh\Capstone\GSEP\SOURCE CODE\GSEPWebAPI\GSEPWebAPI\bin\Microsoft.Owin.Security.Google.xml
+E:\STUDY\Chuyen nganh\Capstone\GSEP\SOURCE CODE\GSEPWebAPI\GSEPWebAPI\bin\Microsoft.Owin.Security.Twitter.xml
+E:\STUDY\Chuyen nganh\Capstone\GSEP\SOURCE CODE\GSEPWebAPI\GSEPWebAPI\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\STUDY\Chuyen nganh\Capstone\GSEP\SOURCE CODE\GSEPWebAPI\GSEPWebAPI\bin\System.Web.Http.Owin.xml
+E:\STUDY\Chuyen nganh\Capstone\GSEP\SOURCE CODE\GSEPWebAPI\GSEPWebAPI\obj\Debug\GSEPWebAPI.csproj.App.config
+E:\STUDY\Chuyen nganh\Capstone\GSEP\SOURCE CODE\GSEPWebAPI\GSEPWebAPI\obj\Debug\GSEPWebAPI.csprojResolveAssemblyReference.cache
+E:\STUDY\Chuyen nganh\Capstone\GSEP\SOURCE CODE\GSEPWebAPI\GSEPWebAPI\obj\Debug\GSEPWebAPI.Migrations.InitialCreate.resources
+E:\STUDY\Chuyen nganh\Capstone\GSEP\SOURCE CODE\GSEPWebAPI\GSEPWebAPI\obj\Debug\GSEPWebAPI.Migrations.BirthDate.resources
+E:\STUDY\Chuyen nganh\Capstone\GSEP\SOURCE CODE\GSEPWebAPI\GSEPWebAPI\obj\Debug\GSEPWebAPI.Migrations.changes.resources
+E:\STUDY\Chuyen nganh\Capstone\GSEP\SOURCE CODE\GSEPWebAPI\GSEPWebAPI\obj\Debug\GSEPWebAPI.csproj.GenerateResource.Cache
+E:\STUDY\Chuyen nganh\Capstone\GSEP\SOURCE CODE\GSEPWebAPI\GSEPWebAPI\obj\Debug\GSEPWebAPI.dll
+E:\STUDY\Chuyen nganh\Capstone\GSEP\SOURCE CODE\GSEPWebAPI\GSEPWebAPI\obj\Debug\GSEPWebAPI.pdb
+E:\STUDY\Chuyen nganh\Capstone\GSEP\SOURCECODE\GSEPWebAPI\GSEPWebAPI\obj\Debug\GSEPWebAPI.csproj.App.config
+E:\STUDY\Chuyen nganh\Capstone\GSEP\SOURCECODE\GSEPWebAPI\GSEPWebAPI\obj\Debug\GSEPWebAPI.csprojResolveAssemblyReference.cache
+E:\STUDY\Chuyen nganh\Capstone\GSEP\SOURCECODE\GSEPWebAPI\GSEPWebAPI\obj\Debug\GSEPWebAPI.Migrations.InitialCreate.resources
+E:\STUDY\Chuyen nganh\Capstone\GSEP\SOURCECODE\GSEPWebAPI\GSEPWebAPI\obj\Debug\GSEPWebAPI.Migrations.BirthDate.resources
+E:\STUDY\Chuyen nganh\Capstone\GSEP\SOURCECODE\GSEPWebAPI\GSEPWebAPI\obj\Debug\GSEPWebAPI.Migrations.changes.resources
+E:\STUDY\Chuyen nganh\Capstone\GSEP\SOURCECODE\GSEPWebAPI\GSEPWebAPI\obj\Debug\GSEPWebAPI.csproj.GenerateResource.Cache
+E:\STUDY\Chuyen nganh\Capstone\GSEP\SOURCECODE\GSEPWebAPI\GSEPWebAPI\obj\Debug\GSEPWebAPI.dll
+E:\STUDY\Chuyen nganh\Capstone\GSEP\SOURCECODE\GSEPWebAPI\GSEPWebAPI\bin\GSEPWebAPI.dll.config
+E:\STUDY\Chuyen nganh\Capstone\GSEP\SOURCECODE\GSEPWebAPI\GSEPWebAPI\bin\GSEPWebAPI.dll
+E:\STUDY\Chuyen nganh\Capstone\GSEP\SOURCECODE\GSEPWebAPI\GSEPWebAPI\bin\GSEPWebAPI.pdb
+E:\STUDY\Chuyen nganh\Capstone\GSEP\SOURCECODE\GSEPWebAPI\GSEPWebAPI\bin\Antlr3.Runtime.dll
+E:\STUDY\Chuyen nganh\Capstone\GSEP\SOURCECODE\GSEPWebAPI\GSEPWebAPI\bin\EntityFramework.dll
+E:\STUDY\Chuyen nganh\Capstone\GSEP\SOURCECODE\GSEPWebAPI\GSEPWebAPI\bin\EntityFramework.SqlServer.dll
+E:\STUDY\Chuyen nganh\Capstone\GSEP\SOURCECODE\GSEPWebAPI\GSEPWebAPI\bin\Microsoft.AspNet.Identity.Core.dll
+E:\STUDY\Chuyen nganh\Capstone\GSEP\SOURCECODE\GSEPWebAPI\GSEPWebAPI\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\STUDY\Chuyen nganh\Capstone\GSEP\SOURCECODE\GSEPWebAPI\GSEPWebAPI\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\STUDY\Chuyen nganh\Capstone\GSEP\SOURCECODE\GSEPWebAPI\GSEPWebAPI\bin\Microsoft.Owin.dll
+E:\STUDY\Chuyen nganh\Capstone\GSEP\SOURCECODE\GSEPWebAPI\GSEPWebAPI\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\STUDY\Chuyen nganh\Capstone\GSEP\SOURCECODE\GSEPWebAPI\GSEPWebAPI\bin\Microsoft.Owin.Security.Cookies.dll
+E:\STUDY\Chuyen nganh\Capstone\GSEP\SOURCECODE\GSEPWebAPI\GSEPWebAPI\bin\Microsoft.Owin.Security.dll
+E:\STUDY\Chuyen nganh\Capstone\GSEP\SOURCECODE\GSEPWebAPI\GSEPWebAPI\bin\Microsoft.Owin.Security.Facebook.dll
+E:\STUDY\Chuyen nganh\Capstone\GSEP\SOURCECODE\GSEPWebAPI\GSEPWebAPI\bin\Microsoft.Owin.Security.Google.dll
+E:\STUDY\Chuyen nganh\Capstone\GSEP\SOURCECODE\GSEPWebAPI\GSEPWebAPI\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\STUDY\Chuyen nganh\Capstone\GSEP\SOURCECODE\GSEPWebAPI\GSEPWebAPI\bin\Microsoft.Owin.Security.OAuth.dll
+E:\STUDY\Chuyen nganh\Capstone\GSEP\SOURCECODE\GSEPWebAPI\GSEPWebAPI\bin\Microsoft.Owin.Security.Twitter.dll
+E:\STUDY\Chuyen nganh\Capstone\GSEP\SOURCECODE\GSEPWebAPI\GSEPWebAPI\bin\Microsoft.Web.Infrastructure.dll
+E:\STUDY\Chuyen nganh\Capstone\GSEP\SOURCECODE\GSEPWebAPI\GSEPWebAPI\bin\Neo4jClient.dll
+E:\STUDY\Chuyen nganh\Capstone\GSEP\SOURCECODE\GSEPWebAPI\GSEPWebAPI\bin\Newtonsoft.Json.dll
+E:\STUDY\Chuyen nganh\Capstone\GSEP\SOURCECODE\GSEPWebAPI\GSEPWebAPI\bin\Owin.dll
+E:\STUDY\Chuyen nganh\Capstone\GSEP\SOURCECODE\GSEPWebAPI\GSEPWebAPI\bin\System.Net.Http.Extensions.dll
+E:\STUDY\Chuyen nganh\Capstone\GSEP\SOURCECODE\GSEPWebAPI\GSEPWebAPI\bin\System.Net.Http.Formatting.dll
+E:\STUDY\Chuyen nganh\Capstone\GSEP\SOURCECODE\GSEPWebAPI\GSEPWebAPI\bin\System.Net.Http.Primitives.dll
+E:\STUDY\Chuyen nganh\Capstone\GSEP\SOURCECODE\GSEPWebAPI\GSEPWebAPI\bin\System.Web.Helpers.dll
+E:\STUDY\Chuyen nganh\Capstone\GSEP\SOURCECODE\GSEPWebAPI\GSEPWebAPI\bin\System.Web.Http.dll
+E:\STUDY\Chuyen nganh\Capstone\GSEP\SOURCECODE\GSEPWebAPI\GSEPWebAPI\bin\System.Web.Http.Owin.dll
+E:\STUDY\Chuyen nganh\Capstone\GSEP\SOURCECODE\GSEPWebAPI\GSEPWebAPI\bin\System.Web.Http.WebHost.dll
+E:\STUDY\Chuyen nganh\Capstone\GSEP\SOURCECODE\GSEPWebAPI\GSEPWebAPI\bin\System.Web.Mvc.dll
+E:\STUDY\Chuyen nganh\Capstone\GSEP\SOURCECODE\GSEPWebAPI\GSEPWebAPI\bin\System.Web.Optimization.dll
+E:\STUDY\Chuyen nganh\Capstone\GSEP\SOURCECODE\GSEPWebAPI\GSEPWebAPI\bin\System.Web.Razor.dll
+E:\STUDY\Chuyen nganh\Capstone\GSEP\SOURCECODE\GSEPWebAPI\GSEPWebAPI\bin\System.Web.WebPages.Deployment.dll
+E:\STUDY\Chuyen nganh\Capstone\GSEP\SOURCECODE\GSEPWebAPI\GSEPWebAPI\bin\System.Web.WebPages.dll
+E:\STUDY\Chuyen nganh\Capstone\GSEP\SOURCECODE\GSEPWebAPI\GSEPWebAPI\bin\System.Web.WebPages.Razor.dll
+E:\STUDY\Chuyen nganh\Capstone\GSEP\SOURCECODE\GSEPWebAPI\GSEPWebAPI\bin\WebGrease.dll
+E:\STUDY\Chuyen nganh\Capstone\GSEP\SOURCECODE\GSEPWebAPI\GSEPWebAPI\bin\Neo4jClient.pdb
+E:\STUDY\Chuyen nganh\Capstone\GSEP\SOURCECODE\GSEPWebAPI\GSEPWebAPI\bin\Neo4jClient.xml
+E:\STUDY\Chuyen nganh\Capstone\GSEP\SOURCECODE\GSEPWebAPI\GSEPWebAPI\bin\System.Net.Http.Extensions.xml
+E:\STUDY\Chuyen nganh\Capstone\GSEP\SOURCECODE\GSEPWebAPI\GSEPWebAPI\bin\System.Net.Http.Primitives.xml
+E:\STUDY\Chuyen nganh\Capstone\GSEP\SOURCECODE\GSEPWebAPI\GSEPWebAPI\bin\System.Net.Http.Formatting.xml
+E:\STUDY\Chuyen nganh\Capstone\GSEP\SOURCECODE\GSEPWebAPI\GSEPWebAPI\bin\System.Web.Helpers.xml
+E:\STUDY\Chuyen nganh\Capstone\GSEP\SOURCECODE\GSEPWebAPI\GSEPWebAPI\bin\System.Web.Http.xml
+E:\STUDY\Chuyen nganh\Capstone\GSEP\SOURCECODE\GSEPWebAPI\GSEPWebAPI\bin\System.Web.Http.WebHost.xml
+E:\STUDY\Chuyen nganh\Capstone\GSEP\SOURCECODE\GSEPWebAPI\GSEPWebAPI\bin\System.Web.Mvc.xml
+E:\STUDY\Chuyen nganh\Capstone\GSEP\SOURCECODE\GSEPWebAPI\GSEPWebAPI\bin\System.Web.Optimization.xml
+E:\STUDY\Chuyen nganh\Capstone\GSEP\SOURCECODE\GSEPWebAPI\GSEPWebAPI\bin\System.Web.Razor.xml
+E:\STUDY\Chuyen nganh\Capstone\GSEP\SOURCECODE\GSEPWebAPI\GSEPWebAPI\bin\System.Web.WebPages.xml
+E:\STUDY\Chuyen nganh\Capstone\GSEP\SOURCECODE\GSEPWebAPI\GSEPWebAPI\bin\System.Web.WebPages.Deployment.xml
+E:\STUDY\Chuyen nganh\Capstone\GSEP\SOURCECODE\GSEPWebAPI\GSEPWebAPI\bin\System.Web.WebPages.Razor.xml
+E:\STUDY\Chuyen nganh\Capstone\GSEP\SOURCECODE\GSEPWebAPI\GSEPWebAPI\bin\EntityFramework.xml
+E:\STUDY\Chuyen nganh\Capstone\GSEP\SOURCECODE\GSEPWebAPI\GSEPWebAPI\bin\EntityFramework.SqlServer.xml
+E:\STUDY\Chuyen nganh\Capstone\GSEP\SOURCECODE\GSEPWebAPI\GSEPWebAPI\bin\Microsoft.AspNet.Identity.Core.xml
+E:\STUDY\Chuyen nganh\Capstone\GSEP\SOURCECODE\GSEPWebAPI\GSEPWebAPI\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\STUDY\Chuyen nganh\Capstone\GSEP\SOURCECODE\GSEPWebAPI\GSEPWebAPI\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\STUDY\Chuyen nganh\Capstone\GSEP\SOURCECODE\GSEPWebAPI\GSEPWebAPI\bin\Microsoft.Owin.xml
+E:\STUDY\Chuyen nganh\Capstone\GSEP\SOURCECODE\GSEPWebAPI\GSEPWebAPI\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\STUDY\Chuyen nganh\Capstone\GSEP\SOURCECODE\GSEPWebAPI\GSEPWebAPI\bin\Microsoft.Owin.Security.xml
+E:\STUDY\Chuyen nganh\Capstone\GSEP\SOURCECODE\GSEPWebAPI\GSEPWebAPI\bin\Microsoft.Owin.Security.Facebook.xml
+E:\STUDY\Chuyen nganh\Capstone\GSEP\SOURCECODE\GSEPWebAPI\GSEPWebAPI\bin\Microsoft.Owin.Security.Cookies.xml
+E:\STUDY\Chuyen nganh\Capstone\GSEP\SOURCECODE\GSEPWebAPI\GSEPWebAPI\bin\Microsoft.Owin.Security.OAuth.xml
+E:\STUDY\Chuyen nganh\Capstone\GSEP\SOURCECODE\GSEPWebAPI\GSEPWebAPI\bin\Microsoft.Owin.Security.Google.xml
+E:\STUDY\Chuyen nganh\Capstone\GSEP\SOURCECODE\GSEPWebAPI\GSEPWebAPI\bin\Microsoft.Owin.Security.Twitter.xml
+E:\STUDY\Chuyen nganh\Capstone\GSEP\SOURCECODE\GSEPWebAPI\GSEPWebAPI\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\STUDY\Chuyen nganh\Capstone\GSEP\SOURCECODE\GSEPWebAPI\GSEPWebAPI\bin\System.Web.Http.Owin.xml
+E:\STUDY\Chuyen nganh\Capstone\GSEP\SOURCECODE\GSEPWebAPI\GSEPWebAPI\obj\Debug\GSEPWebAPI.pdb
+E:\STUDY\Chuyen nganh\Capstone\GSEP\SOURCECODE\GSEPWebAPI\GSEPWebAPI\obj\Debug\GSEPWebAPI.Migrations.RemoveBirthdate.resources
+E:\STUDY\Chuyen nganh\Capstone\GSEP\SOURCECODE\GSEPWebAPI\GSEPWebAPI\bin\Newtonsoft.Json.xml
+E:\STUDY\Chuyen nganh\Capstone\GSEP\SOURCECODE\GSEPWebAPI-RepositoryPattern\GSEPWebAPI\obj\Debug\GSEPWebAPI.csproj.App.config
+E:\STUDY\Chuyen nganh\Capstone\GSEP\SOURCECODE\GSEPWebAPI-RepositoryPattern\GSEPWebAPI\obj\Debug\GSEPWebAPI.Migrations.InitialCreate.resources
+E:\STUDY\Chuyen nganh\Capstone\GSEP\SOURCECODE\GSEPWebAPI-RepositoryPattern\GSEPWebAPI\obj\Debug\GSEPWebAPI.Migrations.BirthDate.resources
+E:\STUDY\Chuyen nganh\Capstone\GSEP\SOURCECODE\GSEPWebAPI-RepositoryPattern\GSEPWebAPI\obj\Debug\GSEPWebAPI.Migrations.changes.resources
+E:\STUDY\Chuyen nganh\Capstone\GSEP\SOURCECODE\GSEPWebAPI-RepositoryPattern\GSEPWebAPI\obj\Debug\GSEPWebAPI.Migrations.RemoveBirthdate.resources
+E:\STUDY\Chuyen nganh\Capstone\GSEP\SOURCECODE\GSEPWebAPI-RepositoryPattern\GSEPWebAPI\obj\Debug\GSEPWebAPI.csproj.GenerateResource.Cache
+E:\STUDY\Chuyen nganh\Capstone\GSEP\SOURCECODE\GSEPWebAPI-RepositoryPattern\GSEPWebAPI\obj\Debug\GSEPWebAPI.dll
+E:\STUDY\Chuyen nganh\Capstone\GSEP\SOURCECODE\GSEPWebAPI-RepositoryPattern\GSEPWebAPI\obj\Debug\GSEPWebAPI.pdb
+E:\STUDY\Chuyen nganh\Capstone\GSEP\SOURCECODE\GSEPWebAPI-RepositoryPattern\GSEPWebAPI\bin\GSEPWebAPI.dll.config
+E:\STUDY\Chuyen nganh\Capstone\GSEP\SOURCECODE\GSEPWebAPI-RepositoryPattern\GSEPWebAPI\bin\GSEPWebAPI.dll
+E:\STUDY\Chuyen nganh\Capstone\GSEP\SOURCECODE\GSEPWebAPI-RepositoryPattern\GSEPWebAPI\bin\GSEPWebAPI.pdb
+E:\STUDY\Chuyen nganh\Capstone\GSEP\SOURCECODE\GSEPWebAPI-RepositoryPattern\GSEPWebAPI\bin\Antlr3.Runtime.dll
+E:\STUDY\Chuyen nganh\Capstone\GSEP\SOURCECODE\GSEPWebAPI-RepositoryPattern\GSEPWebAPI\bin\EntityFramework.dll
+E:\STUDY\Chuyen nganh\Capstone\GSEP\SOURCECODE\GSEPWebAPI-RepositoryPattern\GSEPWebAPI\bin\EntityFramework.SqlServer.dll
+E:\STUDY\Chuyen nganh\Capstone\GSEP\SOURCECODE\GSEPWebAPI-RepositoryPattern\GSEPWebAPI\bin\Microsoft.AspNet.Identity.Core.dll
+E:\STUDY\Chuyen nganh\Capstone\GSEP\SOURCECODE\GSEPWebAPI-RepositoryPattern\GSEPWebAPI\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\STUDY\Chuyen nganh\Capstone\GSEP\SOURCECODE\GSEPWebAPI-RepositoryPattern\GSEPWebAPI\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\STUDY\Chuyen nganh\Capstone\GSEP\SOURCECODE\GSEPWebAPI-RepositoryPattern\GSEPWebAPI\bin\Microsoft.Owin.dll
+E:\STUDY\Chuyen nganh\Capstone\GSEP\SOURCECODE\GSEPWebAPI-RepositoryPattern\GSEPWebAPI\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\STUDY\Chuyen nganh\Capstone\GSEP\SOURCECODE\GSEPWebAPI-RepositoryPattern\GSEPWebAPI\bin\Microsoft.Owin.Security.Cookies.dll
+E:\STUDY\Chuyen nganh\Capstone\GSEP\SOURCECODE\GSEPWebAPI-RepositoryPattern\GSEPWebAPI\bin\Microsoft.Owin.Security.dll
+E:\STUDY\Chuyen nganh\Capstone\GSEP\SOURCECODE\GSEPWebAPI-RepositoryPattern\GSEPWebAPI\bin\Microsoft.Owin.Security.Facebook.dll
+E:\STUDY\Chuyen nganh\Capstone\GSEP\SOURCECODE\GSEPWebAPI-RepositoryPattern\GSEPWebAPI\bin\Microsoft.Owin.Security.Google.dll
+E:\STUDY\Chuyen nganh\Capstone\GSEP\SOURCECODE\GSEPWebAPI-RepositoryPattern\GSEPWebAPI\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\STUDY\Chuyen nganh\Capstone\GSEP\SOURCECODE\GSEPWebAPI-RepositoryPattern\GSEPWebAPI\bin\Microsoft.Owin.Security.OAuth.dll
+E:\STUDY\Chuyen nganh\Capstone\GSEP\SOURCECODE\GSEPWebAPI-RepositoryPattern\GSEPWebAPI\bin\Microsoft.Owin.Security.Twitter.dll
+E:\STUDY\Chuyen nganh\Capstone\GSEP\SOURCECODE\GSEPWebAPI-RepositoryPattern\GSEPWebAPI\bin\Microsoft.Web.Infrastructure.dll
+E:\STUDY\Chuyen nganh\Capstone\GSEP\SOURCECODE\GSEPWebAPI-RepositoryPattern\GSEPWebAPI\bin\Neo4jClient.dll
+E:\STUDY\Chuyen nganh\Capstone\GSEP\SOURCECODE\GSEPWebAPI-RepositoryPattern\GSEPWebAPI\bin\Newtonsoft.Json.dll
+E:\STUDY\Chuyen nganh\Capstone\GSEP\SOURCECODE\GSEPWebAPI-RepositoryPattern\GSEPWebAPI\bin\Owin.dll
+E:\STUDY\Chuyen nganh\Capstone\GSEP\SOURCECODE\GSEPWebAPI-RepositoryPattern\GSEPWebAPI\bin\System.Net.Http.Extensions.dll
+E:\STUDY\Chuyen nganh\Capstone\GSEP\SOURCECODE\GSEPWebAPI-RepositoryPattern\GSEPWebAPI\bin\System.Net.Http.Formatting.dll
+E:\STUDY\Chuyen nganh\Capstone\GSEP\SOURCECODE\GSEPWebAPI-RepositoryPattern\GSEPWebAPI\bin\System.Net.Http.Primitives.dll
+E:\STUDY\Chuyen nganh\Capstone\GSEP\SOURCECODE\GSEPWebAPI-RepositoryPattern\GSEPWebAPI\bin\System.Web.Helpers.dll
+E:\STUDY\Chuyen nganh\Capstone\GSEP\SOURCECODE\GSEPWebAPI-RepositoryPattern\GSEPWebAPI\bin\System.Web.Http.dll
+E:\STUDY\Chuyen nganh\Capstone\GSEP\SOURCECODE\GSEPWebAPI-RepositoryPattern\GSEPWebAPI\bin\System.Web.Http.Owin.dll
+E:\STUDY\Chuyen nganh\Capstone\GSEP\SOURCECODE\GSEPWebAPI-RepositoryPattern\GSEPWebAPI\bin\System.Web.Http.WebHost.dll
+E:\STUDY\Chuyen nganh\Capstone\GSEP\SOURCECODE\GSEPWebAPI-RepositoryPattern\GSEPWebAPI\bin\System.Web.Mvc.dll
+E:\STUDY\Chuyen nganh\Capstone\GSEP\SOURCECODE\GSEPWebAPI-RepositoryPattern\GSEPWebAPI\bin\System.Web.Optimization.dll
+E:\STUDY\Chuyen nganh\Capstone\GSEP\SOURCECODE\GSEPWebAPI-RepositoryPattern\GSEPWebAPI\bin\System.Web.Razor.dll
+E:\STUDY\Chuyen nganh\Capstone\GSEP\SOURCECODE\GSEPWebAPI-RepositoryPattern\GSEPWebAPI\bin\System.Web.WebPages.Deployment.dll
+E:\STUDY\Chuyen nganh\Capstone\GSEP\SOURCECODE\GSEPWebAPI-RepositoryPattern\GSEPWebAPI\bin\System.Web.WebPages.dll
+E:\STUDY\Chuyen nganh\Capstone\GSEP\SOURCECODE\GSEPWebAPI-RepositoryPattern\GSEPWebAPI\bin\System.Web.WebPages.Razor.dll
+E:\STUDY\Chuyen nganh\Capstone\GSEP\SOURCECODE\GSEPWebAPI-RepositoryPattern\GSEPWebAPI\bin\WebGrease.dll
+E:\STUDY\Chuyen nganh\Capstone\GSEP\SOURCECODE\GSEPWebAPI-RepositoryPattern\GSEPWebAPI\bin\Neo4jClient.pdb
+E:\STUDY\Chuyen nganh\Capstone\GSEP\SOURCECODE\GSEPWebAPI-RepositoryPattern\GSEPWebAPI\bin\Neo4jClient.xml
+E:\STUDY\Chuyen nganh\Capstone\GSEP\SOURCECODE\GSEPWebAPI-RepositoryPattern\GSEPWebAPI\bin\Newtonsoft.Json.xml
+E:\STUDY\Chuyen nganh\Capstone\GSEP\SOURCECODE\GSEPWebAPI-RepositoryPattern\GSEPWebAPI\bin\System.Net.Http.Extensions.xml
+E:\STUDY\Chuyen nganh\Capstone\GSEP\SOURCECODE\GSEPWebAPI-RepositoryPattern\GSEPWebAPI\bin\System.Net.Http.Primitives.xml
+E:\STUDY\Chuyen nganh\Capstone\GSEP\SOURCECODE\GSEPWebAPI-RepositoryPattern\GSEPWebAPI\bin\System.Net.Http.Formatting.xml
+E:\STUDY\Chuyen nganh\Capstone\GSEP\SOURCECODE\GSEPWebAPI-RepositoryPattern\GSEPWebAPI\bin\System.Web.Helpers.xml
+E:\STUDY\Chuyen nganh\Capstone\GSEP\SOURCECODE\GSEPWebAPI-RepositoryPattern\GSEPWebAPI\bin\System.Web.Http.xml
+E:\STUDY\Chuyen nganh\Capstone\GSEP\SOURCECODE\GSEPWebAPI-RepositoryPattern\GSEPWebAPI\bin\System.Web.Http.WebHost.xml
+E:\STUDY\Chuyen nganh\Capstone\GSEP\SOURCECODE\GSEPWebAPI-RepositoryPattern\GSEPWebAPI\bin\System.Web.Mvc.xml
+E:\STUDY\Chuyen nganh\Capstone\GSEP\SOURCECODE\GSEPWebAPI-RepositoryPattern\GSEPWebAPI\bin\System.Web.Optimization.xml
+E:\STUDY\Chuyen nganh\Capstone\GSEP\SOURCECODE\GSEPWebAPI-RepositoryPattern\GSEPWebAPI\bin\System.Web.Razor.xml
+E:\STUDY\Chuyen nganh\Capstone\GSEP\SOURCECODE\GSEPWebAPI-RepositoryPattern\GSEPWebAPI\bin\System.Web.WebPages.xml
+E:\STUDY\Chuyen nganh\Capstone\GSEP\SOURCECODE\GSEPWebAPI-RepositoryPattern\GSEPWebAPI\bin\System.Web.WebPages.Deployment.xml
+E:\STUDY\Chuyen nganh\Capstone\GSEP\SOURCECODE\GSEPWebAPI-RepositoryPattern\GSEPWebAPI\bin\System.Web.WebPages.Razor.xml
+E:\STUDY\Chuyen nganh\Capstone\GSEP\SOURCECODE\GSEPWebAPI-RepositoryPattern\GSEPWebAPI\bin\EntityFramework.xml
+E:\STUDY\Chuyen nganh\Capstone\GSEP\SOURCECODE\GSEPWebAPI-RepositoryPattern\GSEPWebAPI\bin\EntityFramework.SqlServer.xml
+E:\STUDY\Chuyen nganh\Capstone\GSEP\SOURCECODE\GSEPWebAPI-RepositoryPattern\GSEPWebAPI\bin\Microsoft.AspNet.Identity.Core.xml
+E:\STUDY\Chuyen nganh\Capstone\GSEP\SOURCECODE\GSEPWebAPI-RepositoryPattern\GSEPWebAPI\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\STUDY\Chuyen nganh\Capstone\GSEP\SOURCECODE\GSEPWebAPI-RepositoryPattern\GSEPWebAPI\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\STUDY\Chuyen nganh\Capstone\GSEP\SOURCECODE\GSEPWebAPI-RepositoryPattern\GSEPWebAPI\bin\Microsoft.Owin.xml
+E:\STUDY\Chuyen nganh\Capstone\GSEP\SOURCECODE\GSEPWebAPI-RepositoryPattern\GSEPWebAPI\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\STUDY\Chuyen nganh\Capstone\GSEP\SOURCECODE\GSEPWebAPI-RepositoryPattern\GSEPWebAPI\bin\Microsoft.Owin.Security.xml
+E:\STUDY\Chuyen nganh\Capstone\GSEP\SOURCECODE\GSEPWebAPI-RepositoryPattern\GSEPWebAPI\bin\Microsoft.Owin.Security.Facebook.xml
+E:\STUDY\Chuyen nganh\Capstone\GSEP\SOURCECODE\GSEPWebAPI-RepositoryPattern\GSEPWebAPI\bin\Microsoft.Owin.Security.Cookies.xml
+E:\STUDY\Chuyen nganh\Capstone\GSEP\SOURCECODE\GSEPWebAPI-RepositoryPattern\GSEPWebAPI\bin\Microsoft.Owin.Security.OAuth.xml
+E:\STUDY\Chuyen nganh\Capstone\GSEP\SOURCECODE\GSEPWebAPI-RepositoryPattern\GSEPWebAPI\bin\Microsoft.Owin.Security.Google.xml
+E:\STUDY\Chuyen nganh\Capstone\GSEP\SOURCECODE\GSEPWebAPI-RepositoryPattern\GSEPWebAPI\bin\Microsoft.Owin.Security.Twitter.xml
+E:\STUDY\Chuyen nganh\Capstone\GSEP\SOURCECODE\GSEPWebAPI-RepositoryPattern\GSEPWebAPI\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\STUDY\Chuyen nganh\Capstone\GSEP\SOURCECODE\GSEPWebAPI-RepositoryPattern\GSEPWebAPI\bin\System.Web.Http.Owin.xml
+E:\Git\GSEP\SOURCECODE\GSEPWebAPI-RepositoryPattern\GSEPWebAPI\bin\GSEPWebAPI.dll.config
+E:\Git\GSEP\SOURCECODE\GSEPWebAPI-RepositoryPattern\GSEPWebAPI\bin\GSEPWebAPI.dll
+E:\Git\GSEP\SOURCECODE\GSEPWebAPI-RepositoryPattern\GSEPWebAPI\bin\GSEPWebAPI.pdb
+E:\Git\GSEP\SOURCECODE\GSEPWebAPI-RepositoryPattern\GSEPWebAPI\bin\Antlr3.Runtime.dll
+E:\Git\GSEP\SOURCECODE\GSEPWebAPI-RepositoryPattern\GSEPWebAPI\bin\EntityFramework.dll
+E:\Git\GSEP\SOURCECODE\GSEPWebAPI-RepositoryPattern\GSEPWebAPI\bin\EntityFramework.SqlServer.dll
+E:\Git\GSEP\SOURCECODE\GSEPWebAPI-RepositoryPattern\GSEPWebAPI\bin\Microsoft.AspNet.Identity.Core.dll
+E:\Git\GSEP\SOURCECODE\GSEPWebAPI-RepositoryPattern\GSEPWebAPI\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\Git\GSEP\SOURCECODE\GSEPWebAPI-RepositoryPattern\GSEPWebAPI\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\Git\GSEP\SOURCECODE\GSEPWebAPI-RepositoryPattern\GSEPWebAPI\bin\Microsoft.Owin.dll
+E:\Git\GSEP\SOURCECODE\GSEPWebAPI-RepositoryPattern\GSEPWebAPI\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\Git\GSEP\SOURCECODE\GSEPWebAPI-RepositoryPattern\GSEPWebAPI\bin\Microsoft.Owin.Security.Cookies.dll
+E:\Git\GSEP\SOURCECODE\GSEPWebAPI-RepositoryPattern\GSEPWebAPI\bin\Microsoft.Owin.Security.dll
+E:\Git\GSEP\SOURCECODE\GSEPWebAPI-RepositoryPattern\GSEPWebAPI\bin\Microsoft.Owin.Security.Facebook.dll
+E:\Git\GSEP\SOURCECODE\GSEPWebAPI-RepositoryPattern\GSEPWebAPI\bin\Microsoft.Owin.Security.Google.dll
+E:\Git\GSEP\SOURCECODE\GSEPWebAPI-RepositoryPattern\GSEPWebAPI\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\Git\GSEP\SOURCECODE\GSEPWebAPI-RepositoryPattern\GSEPWebAPI\bin\Microsoft.Owin.Security.OAuth.dll
+E:\Git\GSEP\SOURCECODE\GSEPWebAPI-RepositoryPattern\GSEPWebAPI\bin\Microsoft.Owin.Security.Twitter.dll
+E:\Git\GSEP\SOURCECODE\GSEPWebAPI-RepositoryPattern\GSEPWebAPI\bin\Microsoft.Web.Infrastructure.dll
+E:\Git\GSEP\SOURCECODE\GSEPWebAPI-RepositoryPattern\GSEPWebAPI\bin\Neo4jClient.dll
+E:\Git\GSEP\SOURCECODE\GSEPWebAPI-RepositoryPattern\GSEPWebAPI\bin\Newtonsoft.Json.dll
+E:\Git\GSEP\SOURCECODE\GSEPWebAPI-RepositoryPattern\GSEPWebAPI\bin\Owin.dll
+E:\Git\GSEP\SOURCECODE\GSEPWebAPI-RepositoryPattern\GSEPWebAPI\bin\System.Net.Http.Extensions.dll
+E:\Git\GSEP\SOURCECODE\GSEPWebAPI-RepositoryPattern\GSEPWebAPI\bin\System.Net.Http.Formatting.dll
+E:\Git\GSEP\SOURCECODE\GSEPWebAPI-RepositoryPattern\GSEPWebAPI\bin\System.Net.Http.Primitives.dll
+E:\Git\GSEP\SOURCECODE\GSEPWebAPI-RepositoryPattern\GSEPWebAPI\bin\System.Web.Helpers.dll
+E:\Git\GSEP\SOURCECODE\GSEPWebAPI-RepositoryPattern\GSEPWebAPI\bin\System.Web.Http.dll
+E:\Git\GSEP\SOURCECODE\GSEPWebAPI-RepositoryPattern\GSEPWebAPI\bin\System.Web.Http.Owin.dll
+E:\Git\GSEP\SOURCECODE\GSEPWebAPI-RepositoryPattern\GSEPWebAPI\bin\System.Web.Http.WebHost.dll
+E:\Git\GSEP\SOURCECODE\GSEPWebAPI-RepositoryPattern\GSEPWebAPI\bin\System.Web.Mvc.dll
+E:\Git\GSEP\SOURCECODE\GSEPWebAPI-RepositoryPattern\GSEPWebAPI\bin\System.Web.Optimization.dll
+E:\Git\GSEP\SOURCECODE\GSEPWebAPI-RepositoryPattern\GSEPWebAPI\bin\System.Web.Razor.dll
+E:\Git\GSEP\SOURCECODE\GSEPWebAPI-RepositoryPattern\GSEPWebAPI\bin\System.Web.WebPages.Deployment.dll
+E:\Git\GSEP\SOURCECODE\GSEPWebAPI-RepositoryPattern\GSEPWebAPI\bin\System.Web.WebPages.dll
+E:\Git\GSEP\SOURCECODE\GSEPWebAPI-RepositoryPattern\GSEPWebAPI\bin\System.Web.WebPages.Razor.dll
+E:\Git\GSEP\SOURCECODE\GSEPWebAPI-RepositoryPattern\GSEPWebAPI\bin\WebGrease.dll
+E:\Git\GSEP\SOURCECODE\GSEPWebAPI-RepositoryPattern\GSEPWebAPI\bin\Neo4jClient.pdb
+E:\Git\GSEP\SOURCECODE\GSEPWebAPI-RepositoryPattern\GSEPWebAPI\bin\Neo4jClient.xml
+E:\Git\GSEP\SOURCECODE\GSEPWebAPI-RepositoryPattern\GSEPWebAPI\bin\Newtonsoft.Json.xml
+E:\Git\GSEP\SOURCECODE\GSEPWebAPI-RepositoryPattern\GSEPWebAPI\bin\System.Net.Http.Extensions.xml
+E:\Git\GSEP\SOURCECODE\GSEPWebAPI-RepositoryPattern\GSEPWebAPI\bin\System.Net.Http.Primitives.xml
+E:\Git\GSEP\SOURCECODE\GSEPWebAPI-RepositoryPattern\GSEPWebAPI\bin\System.Net.Http.Formatting.xml
+E:\Git\GSEP\SOURCECODE\GSEPWebAPI-RepositoryPattern\GSEPWebAPI\bin\System.Web.Helpers.xml
+E:\Git\GSEP\SOURCECODE\GSEPWebAPI-RepositoryPattern\GSEPWebAPI\bin\System.Web.Http.xml
+E:\Git\GSEP\SOURCECODE\GSEPWebAPI-RepositoryPattern\GSEPWebAPI\bin\System.Web.Http.WebHost.xml
+E:\Git\GSEP\SOURCECODE\GSEPWebAPI-RepositoryPattern\GSEPWebAPI\bin\System.Web.Mvc.xml
+E:\Git\GSEP\SOURCECODE\GSEPWebAPI-RepositoryPattern\GSEPWebAPI\bin\System.Web.Optimization.xml
+E:\Git\GSEP\SOURCECODE\GSEPWebAPI-RepositoryPattern\GSEPWebAPI\bin\System.Web.Razor.xml
+E:\Git\GSEP\SOURCECODE\GSEPWebAPI-RepositoryPattern\GSEPWebAPI\bin\System.Web.WebPages.xml
+E:\Git\GSEP\SOURCECODE\GSEPWebAPI-RepositoryPattern\GSEPWebAPI\bin\System.Web.WebPages.Deployment.xml
+E:\Git\GSEP\SOURCECODE\GSEPWebAPI-RepositoryPattern\GSEPWebAPI\bin\System.Web.WebPages.Razor.xml
+E:\Git\GSEP\SOURCECODE\GSEPWebAPI-RepositoryPattern\GSEPWebAPI\bin\EntityFramework.xml
+E:\Git\GSEP\SOURCECODE\GSEPWebAPI-RepositoryPattern\GSEPWebAPI\bin\EntityFramework.SqlServer.xml
+E:\Git\GSEP\SOURCECODE\GSEPWebAPI-RepositoryPattern\GSEPWebAPI\bin\Microsoft.AspNet.Identity.Core.xml
+E:\Git\GSEP\SOURCECODE\GSEPWebAPI-RepositoryPattern\GSEPWebAPI\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\Git\GSEP\SOURCECODE\GSEPWebAPI-RepositoryPattern\GSEPWebAPI\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\Git\GSEP\SOURCECODE\GSEPWebAPI-RepositoryPattern\GSEPWebAPI\bin\Microsoft.Owin.xml
+E:\Git\GSEP\SOURCECODE\GSEPWebAPI-RepositoryPattern\GSEPWebAPI\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\Git\GSEP\SOURCECODE\GSEPWebAPI-RepositoryPattern\GSEPWebAPI\bin\Microsoft.Owin.Security.xml
+E:\Git\GSEP\SOURCECODE\GSEPWebAPI-RepositoryPattern\GSEPWebAPI\bin\Microsoft.Owin.Security.Facebook.xml
+E:\Git\GSEP\SOURCECODE\GSEPWebAPI-RepositoryPattern\GSEPWebAPI\bin\Microsoft.Owin.Security.Cookies.xml
+E:\Git\GSEP\SOURCECODE\GSEPWebAPI-RepositoryPattern\GSEPWebAPI\bin\Microsoft.Owin.Security.OAuth.xml
+E:\Git\GSEP\SOURCECODE\GSEPWebAPI-RepositoryPattern\GSEPWebAPI\bin\Microsoft.Owin.Security.Google.xml
+E:\Git\GSEP\SOURCECODE\GSEPWebAPI-RepositoryPattern\GSEPWebAPI\bin\Microsoft.Owin.Security.Twitter.xml
+E:\Git\GSEP\SOURCECODE\GSEPWebAPI-RepositoryPattern\GSEPWebAPI\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\Git\GSEP\SOURCECODE\GSEPWebAPI-RepositoryPattern\GSEPWebAPI\bin\System.Web.Http.Owin.xml
+E:\Git\GSEP\SOURCECODE\GSEPWebAPI-RepositoryPattern\GSEPWebAPI\obj\Debug\GSEPWebAPI.csproj.App.config
+E:\Git\GSEP\SOURCECODE\GSEPWebAPI-RepositoryPattern\GSEPWebAPI\obj\Debug\GSEPWebAPI.Migrations.InitialCreate.resources
+E:\Git\GSEP\SOURCECODE\GSEPWebAPI-RepositoryPattern\GSEPWebAPI\obj\Debug\GSEPWebAPI.Migrations.BirthDate.resources
+E:\Git\GSEP\SOURCECODE\GSEPWebAPI-RepositoryPattern\GSEPWebAPI\obj\Debug\GSEPWebAPI.Migrations.changes.resources
+E:\Git\GSEP\SOURCECODE\GSEPWebAPI-RepositoryPattern\GSEPWebAPI\obj\Debug\GSEPWebAPI.Migrations.RemoveBirthdate.resources
+E:\Git\GSEP\SOURCECODE\GSEPWebAPI-RepositoryPattern\GSEPWebAPI\obj\Debug\GSEPWebAPI.csproj.GenerateResource.Cache
+E:\Git\GSEP\SOURCECODE\GSEPWebAPI-RepositoryPattern\GSEPWebAPI\obj\Debug\GSEPWebAPI.dll
+E:\Git\GSEP\SOURCECODE\GSEPWebAPI-RepositoryPattern\GSEPWebAPI\obj\Debug\GSEPWebAPI.pdb
+E:\STUDY\Chuyen nganh\Capstone\GSEP\SOURCECODE\GSEPWebAPI-RepositoryPattern\GSEPWebAPI\obj\Debug\GSEPWebAPI.csprojResolveAssemblyReference.cache
+E:\Git\GSEP\SOURCECODE\GSEPWebAPI-RepositoryPattern\GSEPWebAPI\obj\Debug\GSEPWebAPI.csprojResolveAssemblyReference.cache
+D:\Git\GSEP\SOURCECODE\GSEPWebAPI-RepositoryPattern\GSEPWebAPI\bin\GSEPWebAPI.dll.config
+D:\Git\GSEP\SOURCECODE\GSEPWebAPI-RepositoryPattern\GSEPWebAPI\bin\GSEPWebAPI.dll
+D:\Git\GSEP\SOURCECODE\GSEPWebAPI-RepositoryPattern\GSEPWebAPI\bin\GSEPWebAPI.pdb
+D:\Git\GSEP\SOURCECODE\GSEPWebAPI-RepositoryPattern\GSEPWebAPI\bin\Antlr3.Runtime.dll
+D:\Git\GSEP\SOURCECODE\GSEPWebAPI-RepositoryPattern\GSEPWebAPI\bin\EntityFramework.dll
+D:\Git\GSEP\SOURCECODE\GSEPWebAPI-RepositoryPattern\GSEPWebAPI\bin\EntityFramework.SqlServer.dll
+D:\Git\GSEP\SOURCECODE\GSEPWebAPI-RepositoryPattern\GSEPWebAPI\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Git\GSEP\SOURCECODE\GSEPWebAPI-RepositoryPattern\GSEPWebAPI\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Git\GSEP\SOURCECODE\GSEPWebAPI-RepositoryPattern\GSEPWebAPI\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Git\GSEP\SOURCECODE\GSEPWebAPI-RepositoryPattern\GSEPWebAPI\bin\Microsoft.Owin.dll
+D:\Git\GSEP\SOURCECODE\GSEPWebAPI-RepositoryPattern\GSEPWebAPI\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Git\GSEP\SOURCECODE\GSEPWebAPI-RepositoryPattern\GSEPWebAPI\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Git\GSEP\SOURCECODE\GSEPWebAPI-RepositoryPattern\GSEPWebAPI\bin\Microsoft.Owin.Security.dll
+D:\Git\GSEP\SOURCECODE\GSEPWebAPI-RepositoryPattern\GSEPWebAPI\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Git\GSEP\SOURCECODE\GSEPWebAPI-RepositoryPattern\GSEPWebAPI\bin\Microsoft.Owin.Security.Google.dll
+D:\Git\GSEP\SOURCECODE\GSEPWebAPI-RepositoryPattern\GSEPWebAPI\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Git\GSEP\SOURCECODE\GSEPWebAPI-RepositoryPattern\GSEPWebAPI\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Git\GSEP\SOURCECODE\GSEPWebAPI-RepositoryPattern\GSEPWebAPI\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Git\GSEP\SOURCECODE\GSEPWebAPI-RepositoryPattern\GSEPWebAPI\bin\Microsoft.Web.Infrastructure.dll
+D:\Git\GSEP\SOURCECODE\GSEPWebAPI-RepositoryPattern\GSEPWebAPI\bin\Neo4jClient.dll
+D:\Git\GSEP\SOURCECODE\GSEPWebAPI-RepositoryPattern\GSEPWebAPI\bin\Newtonsoft.Json.dll
+D:\Git\GSEP\SOURCECODE\GSEPWebAPI-RepositoryPattern\GSEPWebAPI\bin\Owin.dll
+D:\Git\GSEP\SOURCECODE\GSEPWebAPI-RepositoryPattern\GSEPWebAPI\bin\System.Net.Http.Extensions.dll
+D:\Git\GSEP\SOURCECODE\GSEPWebAPI-RepositoryPattern\GSEPWebAPI\bin\System.Net.Http.Formatting.dll
+D:\Git\GSEP\SOURCECODE\GSEPWebAPI-RepositoryPattern\GSEPWebAPI\bin\System.Net.Http.Primitives.dll
+D:\Git\GSEP\SOURCECODE\GSEPWebAPI-RepositoryPattern\GSEPWebAPI\bin\System.Web.Helpers.dll
+D:\Git\GSEP\SOURCECODE\GSEPWebAPI-RepositoryPattern\GSEPWebAPI\bin\System.Web.Http.dll
+D:\Git\GSEP\SOURCECODE\GSEPWebAPI-RepositoryPattern\GSEPWebAPI\bin\System.Web.Http.Owin.dll
+D:\Git\GSEP\SOURCECODE\GSEPWebAPI-RepositoryPattern\GSEPWebAPI\bin\System.Web.Http.WebHost.dll
+D:\Git\GSEP\SOURCECODE\GSEPWebAPI-RepositoryPattern\GSEPWebAPI\bin\System.Web.Mvc.dll
+D:\Git\GSEP\SOURCECODE\GSEPWebAPI-RepositoryPattern\GSEPWebAPI\bin\System.Web.Optimization.dll
+D:\Git\GSEP\SOURCECODE\GSEPWebAPI-RepositoryPattern\GSEPWebAPI\bin\System.Web.Razor.dll
+D:\Git\GSEP\SOURCECODE\GSEPWebAPI-RepositoryPattern\GSEPWebAPI\bin\System.Web.WebPages.Deployment.dll
+D:\Git\GSEP\SOURCECODE\GSEPWebAPI-RepositoryPattern\GSEPWebAPI\bin\System.Web.WebPages.dll
+D:\Git\GSEP\SOURCECODE\GSEPWebAPI-RepositoryPattern\GSEPWebAPI\bin\System.Web.WebPages.Razor.dll
+D:\Git\GSEP\SOURCECODE\GSEPWebAPI-RepositoryPattern\GSEPWebAPI\bin\WebGrease.dll
+D:\Git\GSEP\SOURCECODE\GSEPWebAPI-RepositoryPattern\GSEPWebAPI\bin\Neo4jClient.pdb
+D:\Git\GSEP\SOURCECODE\GSEPWebAPI-RepositoryPattern\GSEPWebAPI\bin\Neo4jClient.xml
+D:\Git\GSEP\SOURCECODE\GSEPWebAPI-RepositoryPattern\GSEPWebAPI\bin\Newtonsoft.Json.xml
+D:\Git\GSEP\SOURCECODE\GSEPWebAPI-RepositoryPattern\GSEPWebAPI\bin\System.Net.Http.Extensions.xml
+D:\Git\GSEP\SOURCECODE\GSEPWebAPI-RepositoryPattern\GSEPWebAPI\bin\System.Net.Http.Primitives.xml
+D:\Git\GSEP\SOURCECODE\GSEPWebAPI-RepositoryPattern\GSEPWebAPI\bin\System.Net.Http.Formatting.xml
+D:\Git\GSEP\SOURCECODE\GSEPWebAPI-RepositoryPattern\GSEPWebAPI\bin\System.Web.Helpers.xml
+D:\Git\GSEP\SOURCECODE\GSEPWebAPI-RepositoryPattern\GSEPWebAPI\bin\System.Web.Http.xml
+D:\Git\GSEP\SOURCECODE\GSEPWebAPI-RepositoryPattern\GSEPWebAPI\bin\System.Web.Http.WebHost.xml
+D:\Git\GSEP\SOURCECODE\GSEPWebAPI-RepositoryPattern\GSEPWebAPI\bin\System.Web.Mvc.xml
+D:\Git\GSEP\SOURCECODE\GSEPWebAPI-RepositoryPattern\GSEPWebAPI\bin\System.Web.Optimization.xml
+D:\Git\GSEP\SOURCECODE\GSEPWebAPI-RepositoryPattern\GSEPWebAPI\bin\System.Web.Razor.xml
+D:\Git\GSEP\SOURCECODE\GSEPWebAPI-RepositoryPattern\GSEPWebAPI\bin\System.Web.WebPages.xml
+D:\Git\GSEP\SOURCECODE\GSEPWebAPI-RepositoryPattern\GSEPWebAPI\bin\System.Web.WebPages.Deployment.xml
+D:\Git\GSEP\SOURCECODE\GSEPWebAPI-RepositoryPattern\GSEPWebAPI\bin\System.Web.WebPages.Razor.xml
+D:\Git\GSEP\SOURCECODE\GSEPWebAPI-RepositoryPattern\GSEPWebAPI\bin\EntityFramework.xml
+D:\Git\GSEP\SOURCECODE\GSEPWebAPI-RepositoryPattern\GSEPWebAPI\bin\EntityFramework.SqlServer.xml
+D:\Git\GSEP\SOURCECODE\GSEPWebAPI-RepositoryPattern\GSEPWebAPI\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Git\GSEP\SOURCECODE\GSEPWebAPI-RepositoryPattern\GSEPWebAPI\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Git\GSEP\SOURCECODE\GSEPWebAPI-RepositoryPattern\GSEPWebAPI\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Git\GSEP\SOURCECODE\GSEPWebAPI-RepositoryPattern\GSEPWebAPI\bin\Microsoft.Owin.xml
+D:\Git\GSEP\SOURCECODE\GSEPWebAPI-RepositoryPattern\GSEPWebAPI\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Git\GSEP\SOURCECODE\GSEPWebAPI-RepositoryPattern\GSEPWebAPI\bin\Microsoft.Owin.Security.xml
+D:\Git\GSEP\SOURCECODE\GSEPWebAPI-RepositoryPattern\GSEPWebAPI\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Git\GSEP\SOURCECODE\GSEPWebAPI-RepositoryPattern\GSEPWebAPI\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Git\GSEP\SOURCECODE\GSEPWebAPI-RepositoryPattern\GSEPWebAPI\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Git\GSEP\SOURCECODE\GSEPWebAPI-RepositoryPattern\GSEPWebAPI\bin\Microsoft.Owin.Security.Google.xml
+D:\Git\GSEP\SOURCECODE\GSEPWebAPI-RepositoryPattern\GSEPWebAPI\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Git\GSEP\SOURCECODE\GSEPWebAPI-RepositoryPattern\GSEPWebAPI\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Git\GSEP\SOURCECODE\GSEPWebAPI-RepositoryPattern\GSEPWebAPI\bin\System.Web.Http.Owin.xml
+D:\Git\GSEP\SOURCECODE\GSEPWebAPI-RepositoryPattern\GSEPWebAPI\obj\Debug\GSEPWebAPI.csproj.App.config
+D:\Git\GSEP\SOURCECODE\GSEPWebAPI-RepositoryPattern\GSEPWebAPI\obj\Debug\GSEPWebAPI.csprojResolveAssemblyReference.cache
+D:\Git\GSEP\SOURCECODE\GSEPWebAPI-RepositoryPattern\GSEPWebAPI\obj\Debug\GSEPWebAPI.Migrations.InitialCreate.resources
+D:\Git\GSEP\SOURCECODE\GSEPWebAPI-RepositoryPattern\GSEPWebAPI\obj\Debug\GSEPWebAPI.Migrations.BirthDate.resources
+D:\Git\GSEP\SOURCECODE\GSEPWebAPI-RepositoryPattern\GSEPWebAPI\obj\Debug\GSEPWebAPI.Migrations.changes.resources
+D:\Git\GSEP\SOURCECODE\GSEPWebAPI-RepositoryPattern\GSEPWebAPI\obj\Debug\GSEPWebAPI.Migrations.RemoveBirthdate.resources
+D:\Git\GSEP\SOURCECODE\GSEPWebAPI-RepositoryPattern\GSEPWebAPI\obj\Debug\GSEPWebAPI.csproj.GenerateResource.Cache
+D:\Git\GSEP\SOURCECODE\GSEPWebAPI-RepositoryPattern\GSEPWebAPI\obj\Debug\GSEPWebAPI.dll
+D:\Git\GSEP\SOURCECODE\GSEPWebAPI-RepositoryPattern\GSEPWebAPI\obj\Debug\GSEPWebAPI.pdb

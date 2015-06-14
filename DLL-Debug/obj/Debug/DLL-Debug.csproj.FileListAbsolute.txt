@@ -1,0 +1,40 @@
+E:\STUDY\Chuyen nganh\Capstone\GSEP\SOURCECODE\GSEPWebAPI\DLL-Debug\bin\Debug\DLL-Debug.exe.config
+E:\STUDY\Chuyen nganh\Capstone\GSEP\SOURCECODE\GSEPWebAPI\DLL-Debug\bin\Debug\DLL-Debug.exe
+E:\STUDY\Chuyen nganh\Capstone\GSEP\SOURCECODE\GSEPWebAPI\DLL-Debug\bin\Debug\DLL-Debug.pdb
+E:\STUDY\Chuyen nganh\Capstone\GSEP\SOURCECODE\GSEPWebAPI\DLL-Debug\bin\Debug\GSEP-DLL.dll
+E:\STUDY\Chuyen nganh\Capstone\GSEP\SOURCECODE\GSEPWebAPI\DLL-Debug\bin\Debug\Newtonsoft.Json.dll
+E:\STUDY\Chuyen nganh\Capstone\GSEP\SOURCECODE\GSEPWebAPI\DLL-Debug\bin\Debug\GSEP-DLL.pdb
+E:\STUDY\Chuyen nganh\Capstone\GSEP\SOURCECODE\GSEPWebAPI\DLL-Debug\bin\Debug\Newtonsoft.Json.xml
+E:\STUDY\Chuyen nganh\Capstone\GSEP\SOURCECODE\GSEPWebAPI\DLL-Debug\obj\Debug\DLL-Debug.csprojResolveAssemblyReference.cache
+E:\STUDY\Chuyen nganh\Capstone\GSEP\SOURCECODE\GSEPWebAPI\DLL-Debug\obj\Debug\DLL-Debug.exe
+E:\STUDY\Chuyen nganh\Capstone\GSEP\SOURCECODE\GSEPWebAPI\DLL-Debug\obj\Debug\DLL-Debug.pdb
+E:\STUDY\Chuyen nganh\Capstone\GSEP\SOURCECODE\GSEPWebAPI-RepositoryPattern\DLL-Debug\bin\Debug\DLL-Debug.exe.config
+E:\STUDY\Chuyen nganh\Capstone\GSEP\SOURCECODE\GSEPWebAPI-RepositoryPattern\DLL-Debug\obj\Debug\DLL-Debug.exe
+E:\STUDY\Chuyen nganh\Capstone\GSEP\SOURCECODE\GSEPWebAPI-RepositoryPattern\DLL-Debug\obj\Debug\DLL-Debug.pdb
+E:\STUDY\Chuyen nganh\Capstone\GSEP\SOURCECODE\GSEPWebAPI-RepositoryPattern\DLL-Debug\bin\Debug\DLL-Debug.exe
+E:\STUDY\Chuyen nganh\Capstone\GSEP\SOURCECODE\GSEPWebAPI-RepositoryPattern\DLL-Debug\bin\Debug\DLL-Debug.pdb
+E:\STUDY\Chuyen nganh\Capstone\GSEP\SOURCECODE\GSEPWebAPI-RepositoryPattern\DLL-Debug\bin\Debug\GSEP-DLL.dll
+E:\STUDY\Chuyen nganh\Capstone\GSEP\SOURCECODE\GSEPWebAPI-RepositoryPattern\DLL-Debug\bin\Debug\Newtonsoft.Json.dll
+E:\STUDY\Chuyen nganh\Capstone\GSEP\SOURCECODE\GSEPWebAPI-RepositoryPattern\DLL-Debug\bin\Debug\GSEP-DLL.pdb
+E:\STUDY\Chuyen nganh\Capstone\GSEP\SOURCECODE\GSEPWebAPI-RepositoryPattern\DLL-Debug\bin\Debug\Newtonsoft.Json.xml
+E:\STUDY\Chuyen nganh\Capstone\GSEP\SOURCECODE\GSEPWebAPI-RepositoryPattern\DLL-Debug\obj\Debug\DLL-Debug.csprojResolveAssemblyReference.cache
+E:\Git\GSEP\SOURCECODE\GSEPWebAPI-RepositoryPattern\DLL-Debug\bin\Debug\DLL-Debug.exe.config
+E:\Git\GSEP\SOURCECODE\GSEPWebAPI-RepositoryPattern\DLL-Debug\obj\Debug\DLL-Debug.exe
+E:\Git\GSEP\SOURCECODE\GSEPWebAPI-RepositoryPattern\DLL-Debug\obj\Debug\DLL-Debug.pdb
+E:\Git\GSEP\SOURCECODE\GSEPWebAPI-RepositoryPattern\DLL-Debug\bin\Debug\DLL-Debug.exe
+E:\Git\GSEP\SOURCECODE\GSEPWebAPI-RepositoryPattern\DLL-Debug\bin\Debug\DLL-Debug.pdb
+E:\Git\GSEP\SOURCECODE\GSEPWebAPI-RepositoryPattern\DLL-Debug\bin\Debug\GSEP-DLL.dll
+E:\Git\GSEP\SOURCECODE\GSEPWebAPI-RepositoryPattern\DLL-Debug\bin\Debug\Newtonsoft.Json.dll
+E:\Git\GSEP\SOURCECODE\GSEPWebAPI-RepositoryPattern\DLL-Debug\bin\Debug\GSEP-DLL.pdb
+E:\Git\GSEP\SOURCECODE\GSEPWebAPI-RepositoryPattern\DLL-Debug\bin\Debug\Newtonsoft.Json.xml
+E:\Git\GSEP\SOURCECODE\GSEPWebAPI-RepositoryPattern\DLL-Debug\obj\Debug\DLL-Debug.csprojResolveAssemblyReference.cache
+D:\Git\GSEP\SOURCECODE\GSEPWebAPI-RepositoryPattern\DLL-Debug\bin\Debug\DLL-Debug.exe.config
+D:\Git\GSEP\SOURCECODE\GSEPWebAPI-RepositoryPattern\DLL-Debug\obj\Debug\DLL-Debug.exe
+D:\Git\GSEP\SOURCECODE\GSEPWebAPI-RepositoryPattern\DLL-Debug\obj\Debug\DLL-Debug.pdb
+D:\Git\GSEP\SOURCECODE\GSEPWebAPI-RepositoryPattern\DLL-Debug\bin\Debug\DLL-Debug.exe
+D:\Git\GSEP\SOURCECODE\GSEPWebAPI-RepositoryPattern\DLL-Debug\bin\Debug\DLL-Debug.pdb
+D:\Git\GSEP\SOURCECODE\GSEPWebAPI-RepositoryPattern\DLL-Debug\bin\Debug\GSEP-DLL.dll
+D:\Git\GSEP\SOURCECODE\GSEPWebAPI-RepositoryPattern\DLL-Debug\bin\Debug\Newtonsoft.Json.dll
+D:\Git\GSEP\SOURCECODE\GSEPWebAPI-RepositoryPattern\DLL-Debug\bin\Debug\GSEP-DLL.pdb
+D:\Git\GSEP\SOURCECODE\GSEPWebAPI-RepositoryPattern\DLL-Debug\bin\Debug\Newtonsoft.Json.xml
+D:\Git\GSEP\SOURCECODE\GSEPWebAPI-RepositoryPattern\DLL-Debug\obj\Debug\DLL-Debug.csprojResolveAssemblyReference.cache

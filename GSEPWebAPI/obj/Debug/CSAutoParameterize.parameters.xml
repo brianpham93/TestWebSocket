@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="GSEP-Web.config Connection String" description="GSEP Connection String used in web.config by the application to access the database." defaultValue="Data Source=fugsep.cnhreoviisrd.ap-southeast-1.rds.amazonaws.com;Initial Catalog=GSEP;Integrated Security=False;User Id=gsep;Password=Gsep2015!;MultipleActiveResultSets=True" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="D:\\Git\\GSEP\\SOURCECODE\\GSEPWebAPI-RepositoryPattern\\GSEPWebAPI\\obj\\Debug\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='GSEP']/@connectionString" />
+  </parameter>
+</parameters>
